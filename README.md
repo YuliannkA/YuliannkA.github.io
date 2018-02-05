@@ -1,4 +1,11 @@
-## Hello! Hello!! Hello!!!
+# Hello! Hello!! Hello!!!
+
+## Very glad to have you here.
+
+## WELCOME!!!
+
+###
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/27583258_1819746038098136_1952118238_n.jpg)
 
 You can use the [editor on GitHub](https://github.com/YuliannkA/YuliannkA.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](C:\Users\Yulia\Downloads\27583258_1819746038098136_1952118238_n.jpg)
+[Link](url) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
