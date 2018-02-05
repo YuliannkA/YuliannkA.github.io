@@ -35,5 +35,5 @@ But at the same time there are so many knowledgeble doctors out there. Dietologi
 
 ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/27583258_1819746038098136_1952118238_n.jpg)
 
-#Thanks for watching!!!
+Thanks for watching!!!
 
