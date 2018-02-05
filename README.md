@@ -15,7 +15,7 @@ US goverment pitches in at all time:
 
 ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/totalbenefitscosts.png)
 
-![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/dist%20totallunches%20served.png)
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/index.png)
 
 But still obesity keeps on the level:
 
