@@ -5,45 +5,35 @@
 ## WELCOME!!!
 
 ###
+
+Organic produce grows year by year
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/Organic%20producers.png)
+
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/orgmilkquantitygrowth.png)
+
+US goverment pitches in at all time:
+
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/totalbenefitscosts.png)
+
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/dist%20totallunches%20served.png)
+
+But still obesity keeps on the level:
+
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/obesity.png)
+
+and of course lots of genetically modified products and just simply unnatural components that are foreign to our bodies - cause not desirable conditions. For example trigured female hormones can make them suffer during pregnancies, if they are even able to concieve.
+
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/pregnancies.png)
+
+But at the same time there are so many knowledgeble doctors out there. Dietologists and nutritionist, but our fast forward life doesn't allow us margin to gain proper knowledge.
+ It can be very simple and not expensive, especially if to take into consideration good combinations of compatible products:
+ 
+ ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/combinationspng.png)
+ 
+ and body will normilize on its own.
+ for example a grapg of waight loss by that suggestion. And the cost was low.
+
 ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/27583258_1819746038098136_1952118238_n.jpg)
 
-<p align="center">
-  <img src="https://github.com/YuliannkA/YuliannkA.github.io/blob/master/27583258_1819746038098136_1952118238_n.jpg" width="350"/>
-</p>
+#Thanks for watching!!!
 
-
-You can use the [editor on GitHub](https://github.com/YuliannkA/YuliannkA.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]()
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuliannkA/YuliannkA.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
