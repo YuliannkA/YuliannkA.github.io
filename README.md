@@ -5,7 +5,7 @@
 ## WELCOME!!!
 
 ###
-All of us need energy. We get enerfy grom food digestion. The best choice so far is refferenced to organic produce.
+All of us need energy. We get energy from food digestion. The best choice so far is refferenced to organic produce.
 
 Organic produce grows year by year
 
