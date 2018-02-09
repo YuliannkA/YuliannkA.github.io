@@ -27,13 +27,13 @@ and of course lots of genetically modified products and just simply unnatural co
 
 ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/pregnancies.png)
 
-But at the same time there are so many knowledgable doctors out there. Dietologists and nutritionist, but our fast forward life doesn't allow us margin to gain proper knowledge.
+But at the same time there are so many knowledgable doctors out there. Dietologists and nutritionist, but our fast forward life and cost assumptions do not allow us margin to gain proper knowledge.
  It can be very simple and not expensive, especially if to take into consideration good combinations of compatible products:
  
  ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/combinationspng.png)
  
  and body will normilize on its own.
- for example a grapg of waight loss by that suggestion. And the cost was low.
+ for example a graph of weightloss by that suggestion. And the cost was low.
 
 ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/27583258_1819746038098136_1952118238_n.jpg)
 
