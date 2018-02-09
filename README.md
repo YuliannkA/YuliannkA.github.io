@@ -22,6 +22,7 @@ But still obesity keeps on the level:
 ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/obesity.png)
 
 and of course lots of genetically modified products and just simply unnatural components that are foreign to our bodies - cause not desirable conditions. For example trigured female hormones can make them suffer during pregnancies, if they are even able to concieve.
+![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/pregnancies.png)
 
 But at the same time there are so many knowledgable doctors out there. Dietologists and nutritionist, but our fast forward life doesn't allow us margin to gain proper knowledge.
  It can be very simple and not expensive, especially if to take into consideration good combinations of compatible products:
