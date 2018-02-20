@@ -11,7 +11,7 @@ Organic produce grows year by year
 
 ![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/Organic%20producers.png)
 
-![Image](https://github.com/YuliannkA/YuliannkA.github.io/blob/master/orgmilkquantitygrowth.png)
+<a href="http://tinypic.com?ref=2dgtclu" target="_blank"><img src="http://i63.tinypic.com/2dgtclu.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 US goverment pitches in at all time:
 
